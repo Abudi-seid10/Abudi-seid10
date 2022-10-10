@@ -46,6 +46,8 @@
 <hr>
 
 <h2  align="center">💻 Buy me coffee ⬇️ </h2>
+<html>
+  <body>
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
@@ -92,3 +94,5 @@
     }
     initPayPalButton();
   </script>
+  </body>
+  </html>
