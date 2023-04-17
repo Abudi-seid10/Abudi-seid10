@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://github.com/Abudi-seid10/Abudi-seid10/blob/main/img/vid_file.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
