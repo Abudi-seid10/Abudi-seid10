@@ -1,11 +1,6 @@
 # Hi there, I'm Abudi 👋
 
-## I'm a Junior Full Stack Dev (Python - Django)
 
-- 🔭 I’m currently working on [File_manager](https://github.com/Abudi-seid10/File_manager)
-- 🌱 I’m currently learning [Vue.js](https://vuejs.org)
-- 💬 Ask me about anything related to Python, Git, Github, Bootstrap, Django, Jinja2
-- ⚡ Fun fact: I love to playing basketball and I am Electrical Power and Control Engineer.
 
 ### Languages and Tools:
 
