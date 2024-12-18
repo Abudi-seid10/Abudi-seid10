@@ -13,8 +13,7 @@
 
 ### Profile Views:
 
-![Profile views](https://gpvc.arturio.dev/abudi-seid10)
-
+![](https://komarev.com/ghpvc/?username=Abudi-seid10)
 ### Reach me:
 
 <p>
