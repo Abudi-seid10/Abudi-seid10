@@ -1,43 +1,43 @@
-# 🚀 Krimson Business Operations Platform
+# Hi there, I'm Abdulkreim 👋
 
-> A modular business operations platform for aviation services, finance, procurement, and workflow automation.
+## About Me
 
-![GitHub](https://img.shields.io/github/license/Abudi-seid10/REPOSITORY_NAME)
-![GitHub last commit](https://img.shields.io/github/last-commit/Abudi-seid10/REPOSITORY_NAME)
-![GitHub repo size](https://img.shields.io/github/repo-size/Abudi-seid10/REPOSITORY_NAME)
+I'm a self-taught developer who enjoys building software that solves real-world business problems.
 
----
+Most of my projects focus on automation, internal business systems, finance, aviation, databases, and AI-assisted development. I enjoy taking an idea from a spreadsheet or manual process and turning it into a modern web application.
 
-## 👋 About Me
-
-Hi, I'm **Abdulkreim Seid**.
-
-I'm passionate about building practical business systems that solve real operational problems. My work combines aviation operations, finance, automation, and modern web development to create tools that improve efficiency and decision-making.
-
-My current focus is developing modular internal business applications using modern technologies and AI-assisted development.
+Currently learning every day and building projects that make work simpler.
 
 ---
 
-## 🏢 Current Focus
+## 🚀 What I'm Working On
 
-- ✈️ Aviation Operations Management
-- 💰 Treasury & Payment Management
-- 📊 Business Intelligence & Analytics
-- 🤖 AI-powered Internal Tools
-- 📦 Procurement & Vendor Management
-- 📄 SOP Digitalization
-- 🌐 Full Stack Web Applications
+- 🤖 AI-powered business applications
+- ⚛️ React & TypeScript
+- 🟢 Supabase & PostgreSQL
+- 📊 Data analytics & dashboards
+- 🔄 Workflow automation
+- 🌐 Full-stack web applications
+- 🐳 Docker & self-hosting
 
 ---
 
-# Tech Stack
+## 💻 Tech Stack
+
+### Languages
+
+- JavaScript
+- TypeScript
+- SQL
+- Python
 
 ### Frontend
 
 - React
-- TypeScript
-- Tailwind CSS
 - Vite
+- Tailwind CSS
+- HTML5
+- CSS3
 
 ### Backend
 
@@ -45,123 +45,61 @@ My current focus is developing modular internal business applications using mode
 - PostgreSQL
 - REST APIs
 
-### Low-Code & Automation
-
-- Microsoft Power Automate
-- Microsoft Forms
-- Power Apps
-- GitHub Copilot
-
-### Data & Analytics
-
-- Power BI
-- Excel Power Query
-- SQL
-- Microsoft Fabric
-
-### Development
+### Tools
 
 - Git
 - GitHub
-- Docker
 - VS Code
+- Docker
+- GitHub Copilot
+
+### Analytics
+
+- Power BI
+- Excel
+- Power Query
 
 ---
 
-# Current Projects
+## 🌱 Currently Learning
 
-## Aviation ERP
-
-A modular platform for managing:
-
-- Flight Support
-- Ground Handling
-- Quotations
-- Vendor Management
-- Billing
-- Client Invoices
-- Payment Tracking
-
----
-
-## Treasury Management System
-
-Features include:
-
-- Weekly Payment Planning
-- Cash Flow Forecasting
-- Approval Workflows
-- Accounts Payable
-- Accounts Receivable
-- Vendor Payment Prioritization
-
----
-
-## Procurement Platform
-
-- RFQs
-- Vendor Price Database
-- Purchase Orders
-- Supplier Performance
-- Cost Analysis
-
----
-
-## Digital Operations
-
-Building internal systems for:
-
-- HR
-- Leave Management
-- Incident Reporting
-- Document Management
-- Asset Tracking
-- Approval Workflows
-
----
-
-# Goals
-
-- Build scalable business software for SMEs.
-- Automate repetitive operational processes.
-- Improve financial visibility through dashboards.
-- Integrate AI into everyday business workflows.
-- Create modular systems that can grow with the business.
-
----
-
-# Currently Learning
-
-- Advanced React Architecture
+- Software Architecture
 - AI Agents
-- Supabase
-- PostgreSQL Optimization
 - System Design
+- Backend Engineering
 - DevOps
-- Enterprise Software Architecture
+- Cloud Deployment
 
 ---
 
-# GitHub Stats
+## 🎯 Interests
 
-> Replace with your actual GitHub username if needed.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abudi-seid10&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abudi-seid10&layout=compact&theme=github_dark)
+- Building useful software
+- Automation
+- AI
+- Databases
+- Aviation Technology
+- Open Source
+- Productivity
 
 ---
 
-# Connect
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abudi-seid10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abudi-seid10&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect
 
 - GitHub: https://github.com/Abudi-seid10
 
 ---
 
-## Philosophy
+## 💭 A Quote I Like
 
-> "Build systems that remove repetitive work so people can focus on making better decisions."
+> "The best way to learn is by building."
 
----
-
-⭐ If you find one of my projects useful, consider giving it a star.
+Thanks for stopping by! ⭐
