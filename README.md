@@ -44,6 +44,8 @@ Currently learning every day and building projects that make work simpler.
 - Supabase
 - PostgreSQL
 - REST APIs
+- Django
+- FastAPI
 
 ### Tools
 
