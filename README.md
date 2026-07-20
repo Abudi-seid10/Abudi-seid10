@@ -1,50 +1,167 @@
-# Hi there, I'm Abudi! 👋
+# 🚀 Krimson Business Operations Platform
 
-🚀 **Electrical Engineer | Full-Stack Developer | Tech Enthusiast**
+> A modular business operations platform for aviation services, finance, procurement, and workflow automation.
 
-Passionate about **automation, smart home systems, embedded systems, and full-stack development**. I love bringing ideas to life through **React, Django, and Node.js**, while continuously learning and improving my craft. Currently building innovative solutions in **e-commerce, data analytics, and AI-assisted platforms**. 
+![GitHub](https://img.shields.io/github/license/Abudi-seid10/REPOSITORY_NAME)
+![GitHub last commit](https://img.shields.io/github/last-commit/Abudi-seid10/REPOSITORY_NAME)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abudi-seid10/REPOSITORY_NAME)
 
-## 🔧 Tech Stack & Tools:
+---
 
-### 🖥️ **Languages & Frameworks**
-- 🐍 **Programming:** Python, JavaScript, TypeScript
-- 🎨 **Frontend:** React.js, Bootstrap, Tailwind CSS
-- ⚙️ **Backend:** Django, Node.js, Express.js
-- 📝 **Templating:** Jinja2
-- 🗄️ **Database:** PostgreSQL, MySQL, MongoDB
-- ☁️ **DevOps & Cloud:** Docker, Git, GitHub Actions
-- 🔌 **Other Tools:** REST APIs, WebSockets, Firebase, Supabase
-- 🤖 **AI & Automation:** Ollama, LLMs, Flowise, n8n, DeepSeek-R1
+## 👋 About Me
 
-## 📌 Current Projects:
+Hi, I'm **Abdulkreim Seid**.
 
-💡 **AI-Powered Tech & Crypto Blog** – Building a Django-based blog that curates and summarizes AI-generated news articles.
+I'm passionate about building practical business systems that solve real operational problems. My work combines aviation operations, finance, automation, and modern web development to create tools that improve efficiency and decision-making.
 
-🛒 **E-commerce Telegram Web App** – A full-stack inventory and sales management system using React & Node.js.
+My current focus is developing modular internal business applications using modern technologies and AI-assisted development.
 
-📊 **Data Analytics System for Supermarkets** – Optimizing inventory and predicting customer behavior with machine learning.
+---
 
-🛠️ **Smart Home Automation & Embedded Projects** – Exploring IoT, PLCs, and embedded systems for automation solutions.
+## 🏢 Current Focus
 
-## 📊 GitHub Stats:
+- ✈️ Aviation Operations Management
+- 💰 Treasury & Payment Management
+- 📊 Business Intelligence & Analytics
+- 🤖 AI-powered Internal Tools
+- 📦 Procurement & Vendor Management
+- 📄 SOP Digitalization
+- 🌐 Full Stack Web Applications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abudi-seid10&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abudi-seid10&layout=compact&theme=radical)
+# Tech Stack
 
-## 🚀 Goals for 2025:
-✅ Master JavaScript Full-Stack (Node.js, Express, MongoDB)
-✅ Build scalable and production-ready web applications
-✅ Publish research projects on automation & AI applications
-✅ Contribute to open-source projects
+### Frontend
 
-## 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abudiseid071/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abudialfarah)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Abudi-seid10)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abduseid28@gmail.com)
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abudi-seid10&color=blue&style=flat-square)
+### Backend
 
-⚡ **Fun Fact:** I enjoy reverse engineering smart devices and exploring business analytics! 🚀
+- Supabase
+- PostgreSQL
+- REST APIs
 
+### Low-Code & Automation
+
+- Microsoft Power Automate
+- Microsoft Forms
+- Power Apps
+- GitHub Copilot
+
+### Data & Analytics
+
+- Power BI
+- Excel Power Query
+- SQL
+- Microsoft Fabric
+
+### Development
+
+- Git
+- GitHub
+- Docker
+- VS Code
+
+---
+
+# Current Projects
+
+## Aviation ERP
+
+A modular platform for managing:
+
+- Flight Support
+- Ground Handling
+- Quotations
+- Vendor Management
+- Billing
+- Client Invoices
+- Payment Tracking
+
+---
+
+## Treasury Management System
+
+Features include:
+
+- Weekly Payment Planning
+- Cash Flow Forecasting
+- Approval Workflows
+- Accounts Payable
+- Accounts Receivable
+- Vendor Payment Prioritization
+
+---
+
+## Procurement Platform
+
+- RFQs
+- Vendor Price Database
+- Purchase Orders
+- Supplier Performance
+- Cost Analysis
+
+---
+
+## Digital Operations
+
+Building internal systems for:
+
+- HR
+- Leave Management
+- Incident Reporting
+- Document Management
+- Asset Tracking
+- Approval Workflows
+
+---
+
+# Goals
+
+- Build scalable business software for SMEs.
+- Automate repetitive operational processes.
+- Improve financial visibility through dashboards.
+- Integrate AI into everyday business workflows.
+- Create modular systems that can grow with the business.
+
+---
+
+# Currently Learning
+
+- Advanced React Architecture
+- AI Agents
+- Supabase
+- PostgreSQL Optimization
+- System Design
+- DevOps
+- Enterprise Software Architecture
+
+---
+
+# GitHub Stats
+
+> Replace with your actual GitHub username if needed.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abudi-seid10&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abudi-seid10&layout=compact&theme=github_dark)
+
+---
+
+# Connect
+
+- GitHub: https://github.com/Abudi-seid10
+
+---
+
+## Philosophy
+
+> "Build systems that remove repetitive work so people can focus on making better decisions."
+
+---
+
+⭐ If you find one of my projects useful, consider giving it a star.
